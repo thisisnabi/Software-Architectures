@@ -1,1 +1,1 @@
-# Software Architecture in .NET 🚀
+# Software Architectures in .NET 🚀
